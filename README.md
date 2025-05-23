@@ -1,12 +1,42 @@
-# React + Vite
+# 🎮 Tic-Tac-Toe Game (React + Tailwind CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple yet beautifully designed Tic-Tac-Toe game built with **React** and **Tailwind CSS**. This project includes a game board, move history tracker, and clean responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ✅ 2-player game logic
+- 🧠 Dynamic move history with jump functionality
+- 🎨 Clean and modern UI using Tailwind CSS
+- 📱 Responsive layout (mobile, tablet, desktop)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Demo
+
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js** – component-based UI
+- **Tailwind CSS** – utility-first CSS framework
+- **Vite** or **Create React App** – (choose based on your setup)
+
+---
+
+## 📦 Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/tic-tac-toe-react.git
+
+# 2. Navigate into the project directory
+cd tic-tac-toe-react
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
